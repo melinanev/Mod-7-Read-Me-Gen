@@ -40,7 +40,6 @@ THEN I am taken to the corresponding section of the README
 - [Usage](#usage)
 - [License](#license)
 - [Contributors](#contributors)
-- [Tests](#tests)
 
 
 
