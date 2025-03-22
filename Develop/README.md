@@ -1,10 +1,10 @@
-# Testing Project v2
+# Professional ReadMe Generator Test
 
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
 ## Description
 
-I am testing to make sure that this app works correctly. 
+To use when you start a new project and don't remember how to start a README file
 
 ## Table of Contents
 
@@ -17,11 +17,11 @@ I am testing to make sure that this app works correctly.
 
 ## Installation
 
-use npm install 
+npm install then node index.js
 
 ## Usage
 
-use for when needing to create a read me file for a new project
+install inquirer
 
 ## License
 
@@ -29,7 +29,7 @@ This project is licensed under the MIT license.
 
 ## Contributing
 
-add your Git profile and link
+Give GitHub Username and link 
 
 ## Tests
 
