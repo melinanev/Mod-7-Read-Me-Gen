@@ -41,8 +41,7 @@ THEN I am taken to the corresponding section of the README
 - [License](#license)
 - [Contributors](#contributors)
 - [Tests](#tests)
-- [Research](#research)
-- [References](#references)
+
 
 
 ## Installation
