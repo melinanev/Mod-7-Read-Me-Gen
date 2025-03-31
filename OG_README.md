@@ -66,4 +66,7 @@ node index.js
 # Contributors
 
 - [Melina Nevarez](https://github.com/melinanev) 
+- [Email] (melina.l.nevarez@gmail.com)
+- Challenge Video: (https://drive.google.com/file/d/1RD2RM12AbkkkPZGCAMNjrYmQSR6VzFQZ/view?usp=sharing)
+
 
